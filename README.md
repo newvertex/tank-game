@@ -4,14 +4,14 @@ This project is a 2D pixel art multiplayer tank game made with C++ and you can p
 
 ### How to Play
 
-to **move**: use left, right, up and down arrow keys or WASD keys.
+to **move**: use left, right, up and down arrow keys or WASD keys.  
 to **shot**: use space key
 
 ### How to Win
 
 to _win_ you must:
 
-1. Destroy Enemy Tank
+1. Destroy Enemy Tank  
    OR
 2. Destroy Enemy's Base
 

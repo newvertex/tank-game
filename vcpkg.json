@@ -1,0 +1,7 @@
+{
+    "name": "rusty-tank-game",
+    "version-string": "0.0.1",
+    "dependencies": [
+        "raylib"
+    ]
+}
